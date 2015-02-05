@@ -18,8 +18,6 @@
 	}
 
 	
-	//print $dbconn;
-	
 	$result = mysqli_query($dbconn, $sqldelete);
 	if($result == FALSE)
 	{
