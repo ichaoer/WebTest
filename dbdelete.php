@@ -1,4 +1,5 @@
 <?php
+	//
 	$dbname = "fce";
 	$dbtable = "stuinfo";
 	$sqldelete = "delete from ".$dbtable. " where id = '2' ";
